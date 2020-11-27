@@ -118,3 +118,11 @@ post_date: 2019-11-10 20:09:48
 <!-- wp:shortcode -->
 [auto-iframe link="https://dav-rottenburg.de/Kalender/kalender.php" width=100% height="600px" autosize="no" scroll="yes" query=yes]
 <!-- /wp:shortcode -->
+
+<!-- wp:heading -->
+<h2>Ein neuer Abschnitt für Test mit WP GitHub Sync</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Hier kommt ein Text</p>
+<!-- /wp:paragraph -->
